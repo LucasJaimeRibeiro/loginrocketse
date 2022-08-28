@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Roboto:wght@400;500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+:root {
+    --text-base: #afb6c2;
+    --text-title: #d4ccb6;
+    --background: #191816;
+    --form-background: #24221f;
+    --primary-color: #ffc632;
+}
+.incor1 {
+    position: absolute;
+    width: 110vh;
+    height: 100%;
+    background: var(--background);
+}
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+.infu {
+    position: absolute;
+    width: 620px;
+    height: 656px;
+    left: 688px;
+    top: 0px;
+}
+form {
+    position: absolute;
+    width: 572px;
+    height: 512px;
+    left: 74px;
+    top: 94px;
+    background: var(--form-background);
+}
+.imtx {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
+.p1 {
+    position: absolute;
+    top: 59px;
+    left: 90px;
+    color: var(--text-title);
+}
+.p2 {
+    position: absolute;
+    top: 90px;
+    left: 60px;
+    color: var(--text-title);
+}
+.em1 {
+    position: absolute;
+    top: 130px;
+    left: 60px;
+
+}
+.fotocar {
+    position: absolute;
+    top: 35px;
+    left: 10px;
+}
+.fotocar2 {
+    display: none;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+}
+.em2 {
+    color: var(--text-title);
+}
+.em3 {
+    position: absolute;
+    top: 30px;
+    width: 400px;
+    height: 30px;
+    padding-left: 40px;
+    border: none;
+    outline: none;
+    background: transparent;
+    border: 1px solid var(--text-base);
+    color: var(--text-base);
+}
+.so1 {
+    position: absolute;
+    left: 60px;
+    top: 200px;
+}
+.so2 {
+    color: var(--text-title);
+}
+.so3 {
+    position: absolute;
+    top: 30px;
+    width: 408px;
+    height: 37px;
+    border: none;
+    outline: none;
+    padding-left: 33px;
+    background: transparent;
+    border: 1px solid var(--text-base);
+    color: var(--text-base);
+}
+.soim {
+    position: absolute;
+    top: 39px;
+    left: 10px;
+}
+.soim2 {
+    display: none;
+    position: absolute;
+    top: 39px;
+    left: 10px;
+}
+.cade {
+    position: absolute;
+    left: 410px;
+    top: 39px;
+}
+.comno {
+    position: absolute;
+    top: 290px;
+    left: 60px;
+}
+.bot {
+    position: absolute;
+    top: 340px;
+    left: 60px;
+}
+.caixa-1 {
+    position: absolute;
+    color: var(--text-base);
+    left: 0px;
+}
+.li2 {
+    display: flex;
+    align-items: center;
+    padding-left: 290px;
+    justify-content: space-between;
+    color: var(--primary-color);
+    text-decoration: none;
+}
+.ba1 {
+    width: 440px;
+    height: 60px;
+    background: var(--primary-color);
+    border: none;
+    font-family: 300px;
+}
+.li3 {
+    position: absolute;
+    top: 80px;
+    left: 120px;
+    color: var(--primary-color);
+    text-decoration: none;
+}
